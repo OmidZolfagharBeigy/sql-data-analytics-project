@@ -3,6 +3,12 @@ Welcome to the **SQL Data Analytics Project** repository! 🚀
 This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as ranking, changes over time, cumulative, data segmentation and part-to-whole analysis.
 
 ---
+## 🗺️ Project Roadmap
+The project roadmap, which includes **Exploratory Data Analysis (EDA)** and **Advanced Analytics**, is as follows:
+
+![Project Roadmap](docs/project_roadmap.jpg)
+
+---
 ## 🔎 Project Requirements
 ### 📋 BI: Analytics & Reporting (Data Analysis)
 
@@ -17,11 +23,13 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 ## 📂 Repository Structure
 ```
-sql-data-warehouse-project/
+sql-data-analytics-project/
 │
 ├── datasets/                      # Clean & business-ready datasets used for the project
 │
 ├── docs/                          # Project documentation
+│   ├── data_model.png             # A diagram showing the data model (star schema)
+│   ├── project_roadmap.png        # A diagram showing the project roadmap
 │
 ├── scripts/                       # SQL scripts for build the database, data analysis and reports
 │
