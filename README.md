@@ -25,7 +25,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ```
 sql-data-analytics-project/
 │
-├── datasets/                      # Clean & business-ready datasets used for the project
+├── datasets/                      # Clean and business-ready datasets used for the project
 │
 ├── docs/                          # Project documentation
 │   ├── data_model.png             # A diagram showing the data model (star schema)
