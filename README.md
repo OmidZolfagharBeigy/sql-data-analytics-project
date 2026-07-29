@@ -2,7 +2,7 @@
 Welcome to the **SQL Data Analytics Project** repository! 🚀  
 This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as ranking, changes over time, cumulative, data segmentation and part-to-whole analysis.
 
-> **Note:** The clean and business-ready datasets used in this project are the output of the **Gold Layer** from the [sql-data-warehouse-project](https://github.com/OmidZolfagharBeigy/sql-data-warehouse-project) repository. Make sure to check that for the complete data engineering pipeline.
+> **📌 Note:** The clean and business-ready datasets used in this project are the output of the **Gold Layer** from the [sql-data-warehouse-project](https://github.com/OmidZolfagharBeigy/sql-data-warehouse-project) repository. Make sure to check that for the complete data engineering pipeline.
 
 ---
 ## 🗺️ Project Roadmap
