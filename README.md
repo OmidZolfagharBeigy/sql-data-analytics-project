@@ -2,6 +2,8 @@
 Welcome to the **SQL Data Analytics Project** repository! 🚀  
 This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as ranking, changes over time, cumulative, data segmentation and part-to-whole analysis.
 
+> **Note:** The clean and business-ready datasets used in this project are the output of the **Gold Layer** from the [sql-data-warehouse-project](https://github.com/OmidZolfagharBeigy/sql-data-warehouse-project) repository. Make sure to check that for the complete data engineering pipeline.
+
 ---
 ## 🗺️ Project Roadmap
 The project roadmap, which includes **Exploratory Data Analysis (EDA)** and **Advanced Analytics**, is as follows:
@@ -37,6 +39,10 @@ sql-data-analytics-project/
 ├── LICENSE                        # License information for the repository
 ```
 
+## 🙏 Acknowledgements
+
+Thanks to [@datawithbaraa](https://www.youtube.com/@datawithbaraa) on YouTube for teaching me how to do this project.
+
 ---
 ## 🛡️ License
 
@@ -50,3 +56,4 @@ Hi there! I'm **Omid Zolfagahr Beigy**. I’m passionate about problem-solving a
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omidzbeigy)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/omid.zolfaghar.beigy/vizzes)
